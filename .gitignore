@@ -1,0 +1,6 @@
+/azmeetx/target/*.class
+/azmeet/target/
+/regex/*.idea
+*.idea
+*.class
+
